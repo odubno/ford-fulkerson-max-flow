@@ -8,6 +8,6 @@ Make sure that you're using `networkx==1.9`
 3. Using the residual graph and calculate the flow of each node in the original graph.
 
 ## Resources:
-https://brilliant.org/wiki/ford-fulkerson-algorithm/
-https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
-https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm
+- https://brilliant.org/wiki/ford-fulkerson-algorithm/
+- https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
+- https://en.wikipedia.org/wiki/Ford%E2%80%93Fulkerson_algorithm
