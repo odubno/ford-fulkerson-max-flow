@@ -9,6 +9,9 @@ Make sure that you're using `networkx==1.9`. See requirements.
 2. Use the Ford Fulkerson method and Breadth For Search to find augmenting paths and calculate the residual graph.
 3. Using the residual graph, calculate the max flow for the original graph.
 
+#### Why did I write this:
+* This was a home work assignment for CSORW4246, an Algorithms course at Columbia.
+
 ## Resources:
 - https://brilliant.org/wiki/ford-fulkerson-algorithm/
 - https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/
