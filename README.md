@@ -1,4 +1,4 @@
-# Ford Fulkerson Max Flow
+# Maximum Flow Using Ford Fulkerson
 
 ### Python code from scratch for taking a bipartite graph, reducing it to a max flow graph and finding the maximum flow for the graph.
 
