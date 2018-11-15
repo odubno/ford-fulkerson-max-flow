@@ -1,6 +1,6 @@
 # Ford Fulkerson Max Flow
 
-### Python code for taking a bipartite graph, reducing it to a max flow graph and finding the maximum flow for the graph.
+### Python code from scratch for taking a bipartite graph, reducing it to a max flow graph and finding the maximum flow for the graph.
 
 Make sure that you're using `networkx==1.9`. See requirements.
 
