@@ -1,5 +1,7 @@
 # Maximum Flow Using Ford Fulkerson
 
+Fulkerson uses the DFS approach and Edmonds-Karp uses the BFS approach. Towards the end of writing my algorithm I pivot to using BFS, making this algorithm actually the Edmonds-Karp approach and not the Ford Fulkerson approach.
+
 ### Python code from scratch for taking a bipartite graph, reducing it to a max flow graph and finding the maximum flow for the graph.
 
 Make sure that you're using `networkx==1.9`. See requirements.
