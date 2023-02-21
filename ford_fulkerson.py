@@ -35,8 +35,8 @@ def ford_fulkerson(graph, source, sink):
     """
     path = bfs(graph, source, sink)
     while path:
-        # since flow_path is used twice it should be a list and not an generator.
-        # `zip()` is inheritenly a generator i.e. uses `yield` and is emptied on first use 
+        # since flow_path is used twice it should be a list and not an iterator.
+        # `zip()` is inheritenly a generator i.e. it uses `yield` and is emptied on first use 
         flow_path = list(zip(path[:-1], path[1:]))
         graph = augment_flow(graph, flow_path)
         path = bfs(graph, source, sink)
